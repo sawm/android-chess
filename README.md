@@ -5,4 +5,4 @@ Android Chess App test
 
 This is a change I made!
 
-I also made a change
+I also made a change.
