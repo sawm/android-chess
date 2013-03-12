@@ -59,6 +59,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         Base application theme for API 14+. This theme completely replaces
         AppBaseTheme from BOTH res/values/styles.xml and
         res/values-v11/styles.xml on API 14+ devices.
+
     
  API 14 theme customizations can go here. 
          */
@@ -78,6 +79,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
          used for button bars depending on the API level.
          ?android:attr/buttonBarStyle is new as of API 11 so this is
          necessary to support previous API levels.
+
     
            <p>Includes the following attributes:</p>
            <table>
